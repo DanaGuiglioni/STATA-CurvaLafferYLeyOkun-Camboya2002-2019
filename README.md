@@ -1,11 +1,4 @@
-TRABAJO FINAL ECONOMETRÍA I
----
-CURVA DE LAFFER Y LEY DE OKUN
----
-PAIS BAJO ANALISIS: CAMBOYA 2002-2019
----
-STATA
----
+![Portada](IMAGES/Portada.png)
 
 ---
 Introduccion
